@@ -10,7 +10,7 @@ Welcome to my Power BI portfolio! This repository contains my data analysis and 
   - Category sales analysis.
 - **Tools Used**: Power BI, DAX, Power Query.
 - **Screenshot**:
-  ![Sales Dashboard](path/to/screenshot.png)
+  ![Sales Dashboard](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
 - [Download .pbix file](link-to-pbix-file)
 
 ### 2. Customer Retention Analysis
