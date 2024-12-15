@@ -11,7 +11,7 @@ Welcome to my Power BI portfolio! This repository contains my data analysis and 
 - **Tools Used**: Power BI, DAX, Power Query.
 - **Screenshot**:
   ![Year-over-year growth analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
-  ![Regional performance comparison](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
+  ![Regional performance comparison](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/regional.png)
    [Category wise sales analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
   
   [Download .pbix file](link-to-pbix-file)
