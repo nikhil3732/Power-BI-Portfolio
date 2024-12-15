@@ -7,11 +7,14 @@ Welcome to my Power BI portfolio! This repository contains my data analysis and 
 - **Key Features**:
   - Year-over-year growth analysis.
   - Regional performance comparison.
-  - Category sales analysis.
+  - Category wise sales analysis.
 - **Tools Used**: Power BI, DAX, Power Query.
 - **Screenshot**:
-  ![Sales Dashboard](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
-- [Download .pbix file](link-to-pbix-file)
+  ![Year-over-year growth analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
+  ![Regional performance comparison](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
+   [Category wise sales analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
+  
+  [Download .pbix file](link-to-pbix-file)
 
 ### 2. Customer Retention Analysis
 - **Objective**: Identify customer retention rates and trends.
