@@ -10,7 +10,7 @@ Welcome to my Power BI portfolio! This repository contains my data analysis and 
   - Category wise sales analysis.
 - **Tools Used**: Power BI, DAX, Power Query.
 - **Screenshot**:
-  ![Year-over-year growth analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboaed.png)
+  ![Year-over-year growth analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/YEARLY%20SALES.png)
   ![Regional performance comparison](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/regional.png)
    [Category wise sales analysis](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/Screenshot%202024-12-15%20124539.png)
   
