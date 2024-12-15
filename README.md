@@ -24,4 +24,4 @@ Welcome to my Power BI portfolio! This repository contains my data analysis and 
 - **Tools Used**: Power BI, SQL.
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/venkata-nikhil-sudepalli-72a35a201/).
