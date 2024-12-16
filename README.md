@@ -23,6 +23,7 @@ Welcome to my Power BI portfolio! This repository contains my data analysis and 
   - Region wise analysis.
   - Case Fatality and Recovery rate analysis.
 - **Tools Used**: Power BI,DAX,Power Query.
+-  [Download .pbix file](https://github.com/nikhil3732/Power-BI-Portfolio/blob/main/sales%20dashboard.pbix)
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/venkata-nikhil-sudepalli-72a35a201/).
